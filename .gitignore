@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+assets/video/
+assets/cloud_queue/
+.DS_Store
