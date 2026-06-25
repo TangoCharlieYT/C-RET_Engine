@@ -1,0 +1,7 @@
+pyzmq
+opencv-python
+numpy
+requests
+python-dotenv
+scikit-learn
+onnxruntime
